@@ -1,9 +1,9 @@
 body {
-    background-color: chartreuse;
+    background: linear-gradient(chartreuse 25%, khaki 50%);
 }
 
 h1 {
-    color: seagreen;
+    color: saddlebrown;
     background-color: lightpink;
 }
 
